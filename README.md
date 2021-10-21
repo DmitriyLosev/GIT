@@ -1,4 +1,4 @@
-# Инструкция по работе с GIT ![Logo](images/logo.JPG "logo")
+# Инструкция по работе с GIT ![Logo](images/logo.jpg "logo")
 ## Что такое гид
 
 
