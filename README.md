@@ -70,8 +70,9 @@ _Пример_
 
 ## Журнал Изменений
 
+Для просмотра всей истории всех веток в виде дерева, необходимо ввести команду **git log --graff**
 
-
+![Пример](https://devblogs.microsoft.com/devops/wp-content/uploads/sites/6/2019/11/git-log-graph-fast.png)
 ## Работа с удалённым репозиторем
 
 
